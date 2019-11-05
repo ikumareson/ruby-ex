@@ -63,6 +63,7 @@ In this case, the IP for ruby-ex is 172.30.97.209 and it is on port 8080.
 *Note*: you can also get this information from the web console.
 
 
+
 ### Debugging Unexpected Failures
 
 Review some of the common tips and suggestions [here](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md).
